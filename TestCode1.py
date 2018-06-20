@@ -8,7 +8,7 @@ print('z is:', z)
 
 print('Hey bub screw u buddy')
 print('Whats 9 + 10?')
-print('Fuck you reply to me')
+print('REPLY TO MEEEEEEEEEEEEEEEEEEE')
 
 # Takes a start and end values, and computes the sum off all multiples of m
 def sum_mult_in_range(start, end, m): #This is the method declaration
